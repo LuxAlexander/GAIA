@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - Enemies
+  - LivingEntity
+  - Coord
+  - Food
+  - Wolf
+  - Sheep
+  - Snake
+  - Otter
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Character
+  - Enemies
+  - 
+  - healthbar
+  - Speechbubbles
+  - Particles
+  - Trees and Stones
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - textBox
+  - textOverlay
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 4061423379
+    locked: 0
+  - name: enemies
+    uniqueID: 1404415523
+    locked: 0
+  - name: jump Particle
+    uniqueID: 2206439397
+    locked: 0
+  - name: Health Bar
+    uniqueID: 2705906429
+    locked: 0
+  - name: hit Particle
+    uniqueID: 1941346151
+    locked: 0
+  - name: playerhitParticle
+    uniqueID: 3717435833
+    locked: 0
+  - name: interactibles
+    uniqueID: 987587691
+    locked: 0
+  - name: Trees and Stones
+    uniqueID: 3361576427
+    locked: 0

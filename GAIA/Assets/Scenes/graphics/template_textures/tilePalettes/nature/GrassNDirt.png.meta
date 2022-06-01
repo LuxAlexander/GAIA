@@ -1,0 +1,1422 @@
+fileFormatVersion: 2
+guid: 51a45d03f764bf549a7dad435e2c2804
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5991893548982327369
+    second: GrassNDirt_0
+  - first:
+      213: 890345361534311305
+    second: GrassNDirt_1
+  - first:
+      213: -656992429661924899
+    second: GrassNDirt_2
+  - first:
+      213: -2656282370609094267
+    second: GrassNDirt_3
+  - first:
+      213: -287577728512398736
+    second: GrassNDirt_4
+  - first:
+      213: 8130822796963554429
+    second: GrassNDirt_5
+  - first:
+      213: 232802471537615757
+    second: GrassNDirt_6
+  - first:
+      213: 1785999471373993760
+    second: GrassNDirt_7
+  - first:
+      213: 3335302353527704959
+    second: GrassNDirt_8
+  - first:
+      213: 4808679256558768058
+    second: GrassNDirt_9
+  - first:
+      213: 8569342442961253278
+    second: GrassNDirt_10
+  - first:
+      213: 5850883429376564464
+    second: GrassNDirt_11
+  - first:
+      213: 6814817608515672759
+    second: GrassNDirt_12
+  - first:
+      213: -7156421719286845353
+    second: GrassNDirt_13
+  - first:
+      213: -4055916087575662682
+    second: GrassNDirt_14
+  - first:
+      213: -3671899721245074977
+    second: GrassNDirt_15
+  - first:
+      213: 9151699624083605726
+    second: GrassNDirt_16
+  - first:
+      213: -3729856799725658436
+    second: GrassNDirt_17
+  - first:
+      213: -3562617548186886511
+    second: GrassNDirt_18
+  - first:
+      213: -2843789110227509930
+    second: GrassNDirt_19
+  - first:
+      213: -4026589532550134076
+    second: GrassNDirt_20
+  - first:
+      213: 1334940960950565990
+    second: GrassNDirt_21
+  - first:
+      213: 7595633606814017503
+    second: GrassNDirt_22
+  - first:
+      213: -3636781843970502817
+    second: GrassNDirt_23
+  - first:
+      213: -6115261084202983994
+    second: GrassNDirt_24
+  - first:
+      213: 3405367337569551578
+    second: GrassNDirt_25
+  - first:
+      213: 1448327106117113601
+    second: GrassNDirt_26
+  - first:
+      213: 4918913937099844795
+    second: GrassNDirt_27
+  - first:
+      213: -1456802938139462495
+    second: GrassNDirt_28
+  - first:
+      213: -7021747132681117937
+    second: GrassNDirt_29
+  - first:
+      213: 8970875453990262756
+    second: GrassNDirt_30
+  - first:
+      213: -5223178315092322395
+    second: GrassNDirt_31
+  - first:
+      213: 5026262382107097165
+    second: GrassNDirt_32
+  - first:
+      213: 6173702278152535045
+    second: GrassNDirt_33
+  - first:
+      213: -2518268305970608688
+    second: GrassNDirt_34
+  - first:
+      213: -1159529581935422602
+    second: GrassNDirt_35
+  - first:
+      213: -6018330917002313487
+    second: GrassNDirt_36
+  - first:
+      213: -7867071679084980788
+    second: GrassNDirt_37
+  - first:
+      213: 7207402780000205695
+    second: GrassNDirt_38
+  - first:
+      213: 2243641070730520270
+    second: GrassNDirt_39
+  - first:
+      213: 4265290127001525072
+    second: GrassNDirt_40
+  - first:
+      213: 4406515144672539408
+    second: GrassNDirt_41
+  - first:
+      213: 3979340491202392455
+    second: GrassNDirt_42
+  - first:
+      213: 7201365409205887496
+    second: GrassNDirt_43
+  - first:
+      213: -139729817223299190
+    second: GrassNDirt_44
+  - first:
+      213: -2444941130153529260
+    second: GrassNDirt_45
+  - first:
+      213: 7186564030623087276
+    second: GrassNDirt_46
+  - first:
+      213: 377190799860646495
+    second: GrassNDirt_47
+  - first:
+      213: 6981689223342751898
+    second: GrassNDirt_48
+  - first:
+      213: 598784359334702745
+    second: GrassNDirt_49
+  - first:
+      213: -1886867592571098521
+    second: GrassNDirt_50
+  - first:
+      213: 2156220620834684684
+    second: GrassNDirt_51
+  - first:
+      213: 1571840677010150416
+    second: GrassNDirt_52
+  - first:
+      213: 3226424629662893018
+    second: GrassNDirt_53
+  - first:
+      213: 7914433627715684727
+    second: GrassNDirt_54
+  - first:
+      213: 6211457922595395937
+    second: GrassNDirt_55
+  - first:
+      213: -4038420278847305552
+    second: GrassNDirt_56
+  - first:
+      213: -200269580736098082
+    second: GrassNDirt_57
+  - first:
+      213: -587509429221180710
+    second: GrassNDirt_58
+  - first:
+      213: 1035130473578331456
+    second: GrassNDirt_59
+  - first:
+      213: 5600295782028038699
+    second: GrassNDirt_60
+  - first:
+      213: 1721397214875136200
+    second: GrassNDirt_61
+  - first:
+      213: 7879551339011150381
+    second: GrassNDirt_62
+  - first:
+      213: 8743799577007948617
+    second: GrassNDirt_63
+  - first:
+      213: 4733638328171629769
+    second: GrassNDirt_64
+  - first:
+      213: -7768980378712138315
+    second: GrassNDirt_65
+  - first:
+      213: 4474875965785051777
+    second: GrassNDirt_66
+  - first:
+      213: -5055265546153001780
+    second: GrassNDirt_67
+  - first:
+      213: -1380581264469567912
+    second: GrassNDirt_68
+  - first:
+      213: 6030058944629311287
+    second: GrassNDirt_69
+  - first:
+      213: 4082804166813783065
+    second: GrassNDirt_70
+  - first:
+      213: -313958217359875766
+    second: GrassNDirt_71
+  - first:
+      213: 4058912849288209948
+    second: GrassNDirt_72
+  - first:
+      213: -7428541701290134190
+    second: GrassNDirt_73
+  - first:
+      213: 9005859255898367590
+    second: GrassNDirt_74
+  - first:
+      213: 1988992218636694090
+    second: GrassNDirt_75
+  - first:
+      213: 3884600712463914631
+    second: GrassNDirt_76
+  - first:
+      213: 7142628384368342369
+    second: GrassNDirt_77
+  - first:
+      213: 2682731322615232739
+    second: GrassNDirt_78
+  - first:
+      213: 4764016575024198625
+    second: GrassNDirt_79
+  - first:
+      213: -8119381717339924153
+    second: GrassNDirt_80
+  - first:
+      213: 7106460362124997041
+    second: GrassNDirt_81
+  - first:
+      213: 742180793039795363
+    second: GrassNDirt_82
+  - first:
+      213: 135868799690760317
+    second: GrassNDirt_83
+  - first:
+      213: -50528872632590983
+    second: GrassNDirt_84
+  - first:
+      213: -9186506149824250537
+    second: GrassNDirt_85
+  - first:
+      213: -2258256648459337196
+    second: GrassNDirt_86
+  - first:
+      213: 7596683394251218391
+    second: GrassNDirt_87
+  - first:
+      213: 4050347394426808806
+    second: GrassNDirt_88
+  - first:
+      213: -6200278996019089584
+    second: GrassNDirt_89
+  - first:
+      213: -4761253369497760420
+    second: GrassNDirt_90
+  - first:
+      213: -5661620801014679529
+    second: GrassNDirt_91
+  - first:
+      213: -7817343629161688687
+    second: GrassNDirt_92
+  - first:
+      213: 4460315496861962307
+    second: GrassNDirt_93
+  - first:
+      213: -6602199821802157779
+    second: GrassNDirt_94
+  - first:
+      213: -8920496943479255586
+    second: GrassNDirt_95
+  - first:
+      213: 746844265730928204
+    second: GrassNDirt_96
+  - first:
+      213: 7109289172456939095
+    second: GrassNDirt_97
+  - first:
+      213: 5371187233136157107
+    second: GrassNDirt_98
+  - first:
+      213: -5533451116302444171
+    second: GrassNDirt_99
+  - first:
+      213: -8914274397161429013
+    second: GrassNDirt_100
+  - first:
+      213: -6437614089009723005
+    second: GrassNDirt_101
+  - first:
+      213: -2486884814736335152
+    second: GrassNDirt_102
+  - first:
+      213: 8316135906567542813
+    second: GrassNDirt_103
+  - first:
+      213: 8094994069436026048
+    second: GrassNDirt_104
+  - first:
+      213: -2877613783790336247
+    second: GrassNDirt_105
+  - first:
+      213: -8982930831050352292
+    second: GrassNDirt_106
+  - first:
+      213: -5811693006902972886
+    second: GrassNDirt_107
+  - first:
+      213: -2489244770517055715
+    second: GrassNDirt_108
+  - first:
+      213: -7107541164716272165
+    second: GrassNDirt_109
+  - first:
+      213: -7244829600123928312
+    second: GrassNDirt_110
+  - first:
+      213: -6612571361555332667
+    second: GrassNDirt_111
+  - first:
+      213: 7404838535955940133
+    second: GrassNDirt_112
+  - first:
+      213: 4663074564953279267
+    second: GrassNDirt_113
+  - first:
+      213: -4161612444075301930
+    second: GrassNDirt_114
+  - first:
+      213: -2230331447157822814
+    second: GrassNDirt_115
+  - first:
+      213: 316302831447192892
+    second: GrassNDirt_116
+  - first:
+      213: -1082012460419740913
+    second: GrassNDirt_117
+  - first:
+      213: -3858704960468820069
+    second: GrassNDirt_118
+  - first:
+      213: 7871726662706375532
+    second: GrassNDirt_119
+  - first:
+      213: 3752455807656903849
+    second: GrassNDirt_120
+  - first:
+      213: 5869683059989103659
+    second: GrassNDirt_121
+  - first:
+      213: -7272389252397628107
+    second: GrassNDirt_122
+  - first:
+      213: -2689893761684272581
+    second: GrassNDirt_123
+  - first:
+      213: 3608693166498108092
+    second: GrassNDirt_124
+  - first:
+      213: 3096466813654423203
+    second: GrassNDirt_125
+  - first:
+      213: 8834126064246266732
+    second: GrassNDirt_126
+  - first:
+      213: 8713326787830823628
+    second: GrassNDirt_127
+  - first:
+      213: 6587331605738253011
+    second: GrassNDirt_128
+  - first:
+      213: 4993363862411423259
+    second: GrassNDirt_129
+  - first:
+      213: 6895171668544383077
+    second: GrassNDirt_130
+  - first:
+      213: -6964708879535226803
+    second: GrassNDirt_131
+  - first:
+      213: -7605438408278454849
+    second: GrassNDirt_132
+  - first:
+      213: -72398120329163649
+    second: GrassNDirt_133
+  - first:
+      213: -8293742326180138348
+    second: GrassNDirt_134
+  - first:
+      213: 2455850139801896722
+    second: GrassNDirt_135
+  - first:
+      213: 6912298224972176249
+    second: GrassNDirt_136
+  - first:
+      213: -970290446035079512
+    second: GrassNDirt_137
+  - first:
+      213: -241438401348683552
+    second: GrassNDirt_138
+  - first:
+      213: -2892572162072855719
+    second: GrassNDirt_139
+  - first:
+      213: 6030868093125751777
+    second: GrassNDirt_140
+  - first:
+      213: -2205240859480244883
+    second: GrassNDirt_141
+  - first:
+      213: -7198432029834949105
+    second: GrassNDirt_142
+  - first:
+      213: 2677584358943742561
+    second: GrassNDirt_143
+  - first:
+      213: 8754113405927761865
+    second: GrassNDirt_144
+  - first:
+      213: -8634908381885027719
+    second: GrassNDirt_145
+  - first:
+      213: 2049935080113561239
+    second: GrassNDirt_146
+  - first:
+      213: -5379524265862574019
+    second: GrassNDirt_147
+  - first:
+      213: 4331401528437698270
+    second: GrassNDirt_148
+  - first:
+      213: -1045112081461983324
+    second: GrassNDirt_149
+  - first:
+      213: 4327726808172643638
+    second: GrassNDirt_150
+  - first:
+      213: -7445881858976834467
+    second: GrassNDirt_151
+  - first:
+      213: 8119390006698532821
+    second: GrassNDirt_152
+  - first:
+      213: 8753442147445550174
+    second: GrassNDirt_153
+  - first:
+      213: -127726992309983818
+    second: GrassNDirt_154
+  - first:
+      213: -8864860216102810341
+    second: GrassNDirt_155
+  - first:
+      213: 6981327411441577500
+    second: GrassNDirt_156
+  - first:
+      213: -2818026564949175467
+    second: GrassNDirt_157
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassNDirt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b724f8409488dca0800000000000000
+      internalID: -5991893548982327369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5ba993642b5c00800000000000000
+      internalID: 890345361534311305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd151e9bdd4e1e6f0800000000000000
+      internalID: -656992429661924899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58166bce14df22bd0800000000000000
+      internalID: -2656282370609094267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a64be5491520cf0800000000000000
+      internalID: -287577728512398736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7429a0414c76d070800000000000000
+      internalID: 8130822796963554429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8325da4d941b3300800000000000000
+      internalID: 232802471537615757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027484c7e0529c810800000000000000
+      internalID: 1785999471373993760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d0b80c1df594e20800000000000000
+      internalID: 3335302353527704959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf89fd6e4cdbb240800000000000000
+      internalID: 4808679256558768058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93326fac8b6ce670800000000000000
+      internalID: 8569342442961253278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc953eca73823150800000000000000
+      internalID: 5850883429376564464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba57ac2288139e50800000000000000
+      internalID: 6814817608515672759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7507407dc584fac90800000000000000
+      internalID: -7156421719286845353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa249becd76b7c0800000000000000
+      internalID: -4055916087575662682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d45878aaca0dc0800000000000000
+      internalID: -3671899721245074977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84490025e510f70800000000000000
+      internalID: 9151699624083605726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed6459003ec3cc0800000000000000
+      internalID: -3729856799725658436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e5fb9273a0f8ec0800000000000000
+      internalID: -3562617548186886511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dd3cc0fd4d888d0800000000000000
+      internalID: -2843789110227509930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60b08672eae18c0800000000000000
+      internalID: -4026589532550134076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb39d2bb9a68210800000000000000
+      internalID: 1334940960950565990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd72b22a58c196960800000000000000
+      internalID: 7595633606814017503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4c807e2e878dc0800000000000000
+      internalID: -3636781843970502817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd9f47a17a322ba0800000000000000
+      internalID: -6115261084202983994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40d851d8b424f20800000000000000
+      internalID: 3405367337569551578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071ea654dd791410800000000000000
+      internalID: 1448327106117113601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbced8d0a2e734440800000000000000
+      internalID: 4918913937099844795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b37c327568cbe0800000000000000
+      internalID: -1456802938139462495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f9ce58f2ebd8e90800000000000000
+      internalID: -7021747132681117937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e75c5712b3fe7c70800000000000000
+      internalID: 8970875453990262756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7166afefa8387b0800000000000000
+      internalID: -5223178315092322395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48f669910fd0c540800000000000000
+      internalID: 5026262382107097165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3d4623856da550800000000000000
+      internalID: 6173702278152535045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d54f7d61505d0dd0800000000000000
+      internalID: -2518268305970608688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6739e2a1df588efe0800000000000000
+      internalID: -1159529581935422602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0835fdae79a7ca0800000000000000
+      internalID: -6018330917002313487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc59a994dfb82d290800000000000000
+      internalID: -7867071679084980788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b331754a6d50460800000000000000
+      internalID: 7207402780000205695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassNDirt_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ae50aaa3032f10800000000000000
+      internalID: 2243641070730520270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
